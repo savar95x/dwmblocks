@@ -1,7 +1,7 @@
 # dwmblocks-async
 This is the [dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async) and not the original dwmblocks. Doe take a look at the original repo for their readme.  
 
-This is meant to be used with [my dwm build](https://github.com/savar95x/dwm) and [my configs](https://github.com/savar95x/dotfiles)  
+This is meant to be used with [my dwm build](https://github.com/savar95x/dwm) and [my configs](https://github.com/savar95x/dotfiles).  
 
 ## Screenshots
 <img src=.assets/bar1.png />
