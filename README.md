@@ -4,6 +4,8 @@ This is the [dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async) a
 ## Screenshots
 <img src=.assets/bar1.png />
 <img src=.assets/bar2.png />
+
+### Rices
 <div align=center>
 <img width=49% src=.assets/1.png />
 <img width=49% src=.assets/sky.png />
