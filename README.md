@@ -6,7 +6,7 @@ This is the [dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async) a
 <img src=.assets/bar2.png />
 <img src=.assets/bar3.png />
 
-### Rices
+### [Rices](https://github.com/savar95x/dwm)
 <div align=center>
 <img width=49% src=.assets/1.png />
 <img width=49% src=.assets/sky.png />
