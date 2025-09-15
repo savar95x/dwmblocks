@@ -20,8 +20,6 @@
 // Define blocks for the status feed as X(icon, cmd, interval, signal).
 #define BLOCKS(X)             \
     X("", "~/.config/dwm/scripts/music.sh", 5, 1) \
-    X("", "~/.config/dwm/scripts/misc.sh", 0, 0) \
-    X("", "~/.config/dwm/scripts/redshift.sh", 30, 21) \
     X("", "~/.config/dwm/scripts/wifi.sh", 30, 16) \
     X("", "~/.config/dwm/scripts/battery.sh", 30, 12) \
     X("", "~/.config/dwm/scripts/search.sh", 0, 20) \
